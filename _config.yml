@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ying Zhang 张莹"
+title                    : "Ying Zhang"
 title_separator          : "_"
-name                     : &name "Ying Zhang"
+name                     : &name "Ying Zhang 张莹"
 description              : &description "description: Linguistics PhD at Rutgers | Syntax, Semantics, Mandarin, Cross-linguistic Research | Anaphora, Binding, Ellipsis, Agreement, Reference, Demonstratives, Kind Formation"
 url                      : https://yyyingz.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
