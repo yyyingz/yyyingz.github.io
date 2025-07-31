@@ -8,7 +8,6 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-remote_theme             : "mmistakes/minimal-mistakes"
 title                    : "Ying Zhang 张莹"
 title_separator          : "_"
 name                     : &name "Ying Zhang 张莹"
@@ -313,12 +312,13 @@ permalink: /:categories/:title/
 # paginate_path: /page:num/
 timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-
+remote_theme             : "mmistakes/minimal-mistakes"
 # Plugins
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
+  #- jekyll-gist
+  #- jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
@@ -326,9 +326,10 @@ plugins:
 
 # Mimic GitHub Pages with --safe
 whitelist:
+  - jekyll-remote-theme
   - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
+  #- jekyll-gist
+  #- jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
