@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Ying Zhang"
 title_separator          : "_"
-name                     : &name "Ying Zhang 张莹"
+name                     : &name "Ying Zhang"
 description              : &description "description: Linguistics PhD at Rutgers | Syntax, Semantics, Mandarin, Cross-linguistic Research | Anaphora, Binding, Ellipsis, Agreement, Reference, Demonstratives, Kind Formation"
 url                      : https://yyyingz.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "yyyingz/yyyingz.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Ying Zhang"
+  name             : "Ying Zhang 张莹"
   pronouns         : # example: "she/her"  
   bio              : "5th-year PhD student at Rutgers"
   location         : "New Brunswick, NJ"
