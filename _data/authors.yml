@@ -1,8 +1,8 @@
 # Authors
 
-Name Name:
+default:
   name        : "Ying Zhang 张莹"
-  avatar     : "/assets/images/profile.JPG"
+  avatar     : "/assets/images/profile.jpg"
   bio        : "5th-year PhD student at Rutgers"
   location   : "New Brunswick, NJ"
   employer   : "Rutgers University"
