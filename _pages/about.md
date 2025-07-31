@@ -1,7 +1,9 @@
 ---
+layout: home
 permalink: /
 title: "Ying Zhang"
 author_profile: true
+author: default
 redirect_from: 
   - /about/
   - /about.html
