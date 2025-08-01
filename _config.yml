@@ -318,8 +318,8 @@ remote_theme             : "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
-  #- jekyll-gist
-  #- jekyll-paginate
+  - jekyll-gist
+  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
@@ -329,8 +329,8 @@ plugins:
 whitelist:
   - jekyll-remote-theme
   - jekyll-feed
-  #- jekyll-gist
-  #- jekyll-paginate
+  - jekyll-gist
+  - jekyll-paginate
   - jekyll-sitemap
   - jekyll-redirect-from
   - jemoji
