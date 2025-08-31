@@ -1,5 +1,6 @@
 ---
 layout: home
+show_recent_posts: false
 permalink: /
 title: "Ying Zhang"
 author_profile: true
