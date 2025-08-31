@@ -1,9 +1,9 @@
 ---
 layout: home
-show_recent_posts: false
 permalink: /
 title: "Ying Zhang"
 author_profile: true
+hide_posts: true 
 author: default
 redirect_from: 
   - /about/
