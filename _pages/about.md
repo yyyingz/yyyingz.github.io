@@ -1,10 +1,10 @@
 ---
-layout: home
+#layout: home
 permalink: /
 title: "Ying Zhang"
 author_profile: true
-hide_posts: true 
-author: default
+#hide_posts: true 
+#author: default
 redirect_from: 
   - /about/
   - /about.html

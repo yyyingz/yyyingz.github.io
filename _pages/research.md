@@ -1,8 +1,10 @@
 ---
+layout: archive 
 title: "Research"
 permalink: /research/
-layout: single
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
 ## Long-distance dependency of reflexives in Mandarin fragment answers
