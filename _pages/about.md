@@ -15,7 +15,7 @@ I am a fifth-year PhD student in the [Department of Linguistics](https://ling.ru
 
 News
 ======
-[Dorothy Ahn](https://dorothyahn.com) and I presented on *kind-denoting demonstratives* at [LingDem](https://vicom.info/sub30-lingdem/), a special session of **SuB 2025** [abstract](/files/2025-SuB30-Zhang-Ahn.pdf) [proceedings draft](/files/2026-SuB30-Zhang-Ahn-proceedings.pdf)
+[Dorothy Ahn](https://dorothyahn.com) and I presented on *kind-denoting demonstratives* at [LingDem](https://vicom.info/sub30-lingdem/), a special session of **SuB 2025** [abstract](/files/2025-SuB30-Zhang-Ahn.pdf) [proceedings draft](/files/2026-SuB30-Zhang-Ahn-Proceedings.pdf)
 
 Research
 ======
