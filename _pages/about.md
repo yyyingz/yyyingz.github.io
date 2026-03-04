@@ -15,8 +15,9 @@ I am a fifth-year PhD student in the [Department of Linguistics](https://ling.ru
 
 News
 ======
-[Shannon Bryant](https://sites.google.com/view/shannonbryant/about?pli=1) and I will present on *long-distance dependency of reflexives in Mandarin fragment answers* at [WCCFL 44](https://wccfl44.github.io/WCCFL44/) [\[abstract\]](/files/2026-WCCFL44-Zhang-Bryant.pdf)
-[Dorothy Ahn](https://dorothyahn.com) and I presented on *kind-denoting demonstratives* at [LingDem](https://vicom.info/sub30-lingdem/), a special session of **SuB 2025** [abstract](/files/2025-SuB30-Zhang-Ahn.pdf) [proceedings draft](/files/2026-SuB30-Zhang-Ahn-Proceedings.pdf)
+📰[Shannon Bryant](https://sites.google.com/view/shannonbryant/about?pli=1) and I will present on *long-distance dependency of reflexives in Mandarin fragment answers* at [WCCFL 44](https://wccfl44.github.io/WCCFL44/) [\[abstract\]](/files/2026-WCCFL44-Zhang-Bryant.pdf)
+
+📰[Dorothy Ahn](https://dorothyahn.com) and I presented on *kind-denoting demonstratives* at [LingDem](https://vicom.info/sub30-lingdem/), a special session of **SuB 2025** [\[abstract\](/files/2025-SuB30-Zhang-Ahn.pdf) [\[proceedings draft\]](/files/2026-SuB30-Zhang-Ahn-Proceedings.pdf)
 
 Research
 ======
@@ -29,8 +30,6 @@ Long-distance binding of Mandarin reflexives in fragment answers
 ------
 I observe that the complex reflexive *taziji* in Mandarin Chinese is more likely to take a non-local antecedent in fragment answers than in full sentential structures. Based on novel arguments from the blocking effect on *ziji* and preposition matching, I argue that fragment answers in Mandarin are derived from deletion of full syntactic structures. I propose that *taziji* moves from the embedded clause to the left periphery, followed by ellipsis of the remaining TP to create a long-distance binding in fragments.
 
-I am currently working on an experiment with Shannon Bryant to investigate this non-local dependency and provide further empirical support for the analysis.
-  
 Kind-referring demonstratives 
 ------
 I argue that demonstratives can form kind-denoting expressions and support this claim with novel evidence from Xi’anese demonstratives and their English counterparts. I also provide a formal analysis of how this kind-based interpretation is derived, incorporating a slight modification to the canonical semantics of demonstratives.
