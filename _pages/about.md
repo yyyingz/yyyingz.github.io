@@ -17,7 +17,7 @@ News
 ======
 📰[Shannon Bryant](https://sites.google.com/view/shannonbryant/about?pli=1) and I will present on *long-distance dependency of reflexives in Mandarin fragment answers* at [WCCFL 44](https://wccfl44.github.io/WCCFL44/) [\[abstract\]](/files/2026-WCCFL44-Zhang-Bryant.pdf)
 
-📰[Dorothy Ahn](https://dorothyahn.com) and I presented on *kind-denoting demonstratives* at [LingDem](https://vicom.info/sub30-lingdem/), a special session of **SuB 2025** [\[abstract\](/files/2025-SuB30-Zhang-Ahn.pdf) [\[proceedings draft\]](/files/2026-SuB30-Zhang-Ahn-Proceedings.pdf)
+📰[Dorothy Ahn](https://dorothyahn.com) and I presented on *kind-denoting demonstratives* at [LingDem](https://vicom.info/sub30-lingdem/), a special session of **SuB 2025** [\[abstract\]](/files/2025-SuB30-Zhang-Ahn.pdf) [\[proceedings draft\]](/files/2026-SuB30-Zhang-Ahn-Proceedings.pdf)
 
 Research
 ======
